@@ -14,5 +14,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # React Boilerplate (Vite + Tailwindcss)
 
 # 자주 까먹는 명령어
-Remove-Item -Recurse -Force .git
-git push origin main --force
+- Remove-Item -Recurse -Force .git
+- git push origin main --force
